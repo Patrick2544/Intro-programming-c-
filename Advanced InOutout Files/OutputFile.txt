@@ -1,0 +1,88 @@
+Bill
+Party ID:		1
+Adults: 		10
+Children: 		0
+Cost of Meals: 		217.50
+SurCharge: 		17.97
+Tips and Taxes: 	39.15
+Deposit: 		100.00
+Total Cost: 		274.62
+Total Balance Due: 	174.62
+
+Bill
+Party ID:		2
+Adults: 		27
+Children: 		3
+Cost of Meals: 		743.04
+SurCharge: 		61.38
+Tips and Taxes: 	133.75
+Deposit: 		57.50
+Total Cost: 		938.16
+Total Balance Due: 	880.66
+
+Bill
+Party ID:		3
+Adults: 		125
+Children: 		17
+Cost of Meals: 		3488.16
+SurCharge: 		0.00
+Tips and Taxes: 	627.87
+Deposit: 		0.00
+Total Cost: 		4116.03
+Total Balance Due: 	4116.03
+
+Bill
+Party ID:		4
+Adults: 		4
+Children: 		0
+Cost of Meals: 		87.00
+SurCharge: 		0.00
+Tips and Taxes: 	15.66
+Deposit: 		25.00
+Total Cost: 		102.66
+Total Balance Due: 	77.66
+
+Bill
+Party ID:		5
+Adults: 		0
+Children: 		25
+Cost of Meals: 		326.25
+SurCharge: 		26.95
+Tips and Taxes: 	58.73
+Deposit: 		23.75
+Total Cost: 		411.92
+Total Balance Due: 	388.17
+
+Bill
+Party ID:		6
+Adults: 		250
+Children: 		43
+Cost of Meals: 		7115.64
+SurCharge: 		0.00
+Tips and Taxes: 	1280.82
+Deposit: 		500.00
+Total Cost: 		8396.46
+Total Balance Due: 	7896.46
+
+Bill
+Party ID:		7
+Adults: 		0
+Children: 		0
+Cost of Meals: 		0.00
+SurCharge: 		0.00
+Tips and Taxes: 	0.00
+Deposit: 		0.00
+Total Cost: 		0.00
+Total Balance Due: 	0.00
+
+Bill
+Party ID:		10
+Adults: 		5
+Children: 		0
+Cost of Meals: 		129.00
+SurCharge: 		10.66
+Tips and Taxes: 	23.22
+Deposit: 		275.00
+Total Cost: 		162.88
+Total Balance Due: 	112.12
+

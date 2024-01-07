@@ -1,0 +1,6 @@
+R	This meal type is incorrect
+R	The weekend information is incorrect
+-3	This adults number is incorrect
+-1	This children number is incorrect
+-10	This number of deposit is incorrect
+-10	This number of deposit is incorrect
