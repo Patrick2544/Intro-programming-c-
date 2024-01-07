@@ -1,0 +1,152 @@
+Output
+Please enter your type of drink : coke
+Your type of drink : coke
+Please enter the amount of caffeine : 500
+Sorry the amount of caffeine must not greater than 350
+Please enter the amount of caffeine : 1
+The amount of caffeine in your drink : 1.00
+
+Please enter the number of hours : 3
+coke 1.00 mg    show 3.00 hours
+Your caffeine in your boday after 1 hours : 0.87
+Your caffeine in your boday after 2 hours : 0.76
+Your caffeine in your boday after 3 hours : 0.66
+
+Do you have others type of drink?
+If you want to continue the program please type 'Y' otherwise type any character to exit the program
+y
+Please enter your type of drink : Pepsi
+Your type of drink : Pepsi
+Please enter the amount of caffeine : ABC
+Sorry the input is impossible for the amount of caffeine.
+please enter the amount of caffeine : 1
+The amount of caffeine in your drink : 1.00
+
+Please enter the number of hours : 2
+Pepsi 1.00 mg   show 2.00 hours
+Your caffeine in your boday after 1 hours : 0.87
+Your caffeine in your boday after 2 hours : 0.76
+
+Do you have others type of drink?
+If you want to continue the program please type 'Y' otherwise type any character to exit the program
+y
+Please enter your type of drink : Pepsi
+Your type of drink : Pepsi
+Please enter the amount of caffeine : 200
+The amount of caffeine in your drink : 200.00
+
+Please enter the number of hours : -4
+Sorry the number of hours must be a positive number
+Please enter the number of hours : 1
+Pepsi 200.00 mg show 1.00 hours
+Your caffeine in your boday after 1 hours : 174.00
+
+Do you have others type of drink?
+If you want to continue the program please type 'Y' otherwise type any character to exit the program
+y
+Please enter your type of drink : coffee
+Your type of drink : coffee
+Please enter the amount of caffeine : 250
+The amount of caffeine in your drink : 250.00
+
+Please enter the number of hours : XXX
+Sorry input is impossible for the number of hours.
+please enter the number of hours : 1
+coffee 250.00 mg        show 1.00 hours
+Your caffeine in your boday after 1 hours : 217.50
+
+Do you have others type of drink?
+If you want to continue the program please type 'Y' otherwise type any character to exit the program
+y
+Please enter your type of drink : coke zero
+Your type of drink : coke zero
+Please enter the amount of caffeine : 0
+The amount of caffeine in your drink : 0.00
+
+You do not have amount of caffeine in your body. Thank you.
+
+Do you have others type of drink?
+If you want to continue the program please type 'Y' otherwise type any character to exit the program
+Y
+Please enter your type of drink : 16 oz Starbucks coffee
+Your type of drink : 16 oz Starbucks coffee
+Please enter the amount of caffeine : 310
+The amount of caffeine in your drink : 310.00
+
+Please enter the number of hours : 10
+16 oz Starbucks coffee 310.00 mg        show 10.00 hours
+Your caffeine in your boday after 1 hours : 269.70
+Your caffeine in your boday after 2 hours : 234.64
+Your caffeine in your boday after 3 hours : 204.14
+Your caffeine in your boday after 4 hours : 177.60
+Your caffeine in your boday after 5 hours : 154.51
+Your caffeine in your boday after 6 hours : 134.42
+Your caffeine in your boday after 7 hours : 116.95
+Your caffeine in your boday after 8 hours : 101.75
+Your caffeine in your boday after 9 hours : 88.52
+Your caffeine in your boday after 10 hours : 77.01
+
+Do you have others type of drink?
+If you want to continue the program please type 'Y' otherwise type any character to exit the program
+y
+Please enter your type of drink : 5-hr Energy drink
+Your type of drink : 5-hr Energy drink
+Please enter the amount of caffeine : 245
+The amount of caffeine in your drink : 245.00
+
+Please enter the number of hours : 7
+5-hr Energy drink 245.00 mg     show 7.00 hours
+Your caffeine in your boday after 1 hours : 213.15
+Your caffeine in your boday after 2 hours : 185.44
+Your caffeine in your boday after 3 hours : 161.33
+Your caffeine in your boday after 4 hours : 140.36
+Your caffeine in your boday after 5 hours : 122.11
+Your caffeine in your boday after 6 hours : 106.24
+Your caffeine in your boday after 7 hours : 92.43
+
+Do you have others type of drink?
+If you want to continue the program please type 'Y' otherwise type any character to exit the program
+Y
+Please enter your type of drink : Black tea
+Your type of drink : Black tea
+Please enter the amount of caffeine : 47
+The amount of caffeine in your drink : 47.00
+
+Please enter the number of hours : 5
+Black tea 47.00 mg      show 5.00 hours
+Your caffeine in your boday after 1 hours : 40.89
+Your caffeine in your boday after 2 hours : 35.57
+Your caffeine in your boday after 3 hours : 30.95
+Your caffeine in your boday after 4 hours : 26.93
+Your caffeine in your boday after 5 hours : 23.43
+
+Do you have others type of drink?
+If you want to continue the program please type 'Y' otherwise type any character to exit the program
+y
+Please enter your type of drink : Red bull
+Your type of drink : Red bull
+Please enter the amount of caffeine : 80
+The amount of caffeine in your drink : 80.00
+
+Please enter the number of hours : 12
+Red bull 80.00 mg       show 12.00 hours
+Your caffeine in your boday after 1 hours : 69.60
+Your caffeine in your boday after 2 hours : 60.55
+Your caffeine in your boday after 3 hours : 52.68
+Your caffeine in your boday after 4 hours : 45.83
+Your caffeine in your boday after 5 hours : 39.87
+Your caffeine in your boday after 6 hours : 34.69
+Your caffeine in your boday after 7 hours : 30.18
+Your caffeine in your boday after 8 hours : 26.26
+Your caffeine in your boday after 9 hours : 22.84
+Your caffeine in your boday after 10 hours : 19.87
+Your caffeine in your boday after 11 hours : 17.29
+Your caffeine in your boday after 12 hours : 15.04
+
+Do you have others type of drink?
+If you want to continue the program please type 'Y' otherwise type any character to exit the program
+j
+
+C:\Users\Jittapatana\source\repos\TEST\Debug\TEST.exe (process 18772) exited with code 0.
+Press any key to close this window . . .
+
