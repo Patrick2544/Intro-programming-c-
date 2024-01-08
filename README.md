@@ -15,7 +15,7 @@ These are assignments and practice labs for my Introduction to Programming in C+
 5. [Catering Company Program](#Fifth-Lab)
 6. [Array Practice Program](#Sizth-Lab)
 7. [Household in Woodland Hills Application Simulation](#Seventh-Lab)
-8. [Related C++ Practice Programs](#More-c++-advanced-classes)
+8. [Related C++ Practice Programs](#More-c-advanced-classes)
     
 ## First Lab
 [The First Lab](https://github.com/Patrick2544/Intro-programming-cpp-/blob/main/cost%20of%20an%20automobile%20repair/main.cpp) is a program to calculate the total cost of an automobile repair
