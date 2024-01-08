@@ -7,8 +7,7 @@ These are assignments and practice labs for my Introduction to Programming in C+
 
 [OOP-Programming in c++](https://github.com/Patrick2544/OOP-Programming-cpp)
 
-# Information
-## Table of Contents
+# Table of Contents
 1. [Automoblie Repair Program](#First-Lab)
 2. [Customer's Monthly Bill Program](#Second-Lab)
 3. [Coffee with Caffeine Program](#Third-Lab)
@@ -16,7 +15,7 @@ These are assignments and practice labs for my Introduction to Programming in C+
 5. [Catering Company Program](#Fifth-Lab)
 6. [Array Practice Program](#Sizth-Lab)
 7. [Household in Woodland Hills Application Simulation](#Seventh-Lab)
-
+8. [Related C++ Practice Programs](#Check-these-repositories-for-more-c++-advanced-classes)
     
 ## First Lab
 [The First Lab](https://github.com/Patrick2544/Intro-programming-cpp-/blob/main/cost%20of%20an%20automobile%20repair/main.cpp) is a program to calculate the total cost of an automobile repair
@@ -77,6 +76,6 @@ The input data file can be found [here](https://github.com/Patrick2544/Intro-pro
 
 ---
 
-**Check these repositories for more c++ advanced classes:**
+## Check these repositories for more c++ advanced classes
 
 [OOP-Programming in c++](https://github.com/Patrick2544/OOP-Programming-cpp)
