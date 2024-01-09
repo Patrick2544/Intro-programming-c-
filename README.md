@@ -27,7 +27,7 @@ These are assignments and practice labs for my Introduction to Programming in C+
 * Practice how to use constant variables
 
 ## Second Lab
-[The Secohnd Lab](https://github.com/Patrick2544/Intro-programming-cpp-/tree/main/customer's%20monthly%20bill) is a program to calculate a customer's monthly bill
+[The Secohnd Lab](https://github.com/Patrick2544/Intro-programming-cpp-/blob/main/customer's%20monthly%20bill/main.cpp) is a program to calculate a customer's monthly bill
 
 **Learning Objective**
 * learn to code, compile, and run a SELECTION program
