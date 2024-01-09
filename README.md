@@ -20,7 +20,7 @@ These are assignments and practice labs for my Introduction to Programming in C+
 ## First Lab
 [The First Lab](https://github.com/Patrick2544/Intro-programming-cpp-/blob/main/cost%20of%20an%20automobile%20repair/main.cpp) is a program to calculate the total cost of an automobile repair
 
-**Learning Objective**
+**Learning Objectives**
 * Learn to code, compile, and run a sequential program
 * Learn how to obtain a program listing and output printout
 * Practice how to use different types of variables
@@ -29,14 +29,14 @@ These are assignments and practice labs for my Introduction to Programming in C+
 ## Second Lab
 [The Secohnd Lab](https://github.com/Patrick2544/Intro-programming-cpp-/blob/main/customer's%20monthly%20bill/main.cpp) is a program to calculate a customer's monthly bill
 
-**Learning Objective**
+**Learning Objectives**
 * learn to code, compile, and run a SELECTION program
 * Practice how to use conditional statements
 
 ## Third Lab
 [The Third Lab](https://github.com/Patrick2544/Intro-programming-cpp-/tree/main/calulate%20the%20amount%20of%20caffeine%20in%20the%20body) is a program to calulate the amount of caffeine in the body X hours after the person drinks the coffee. (After caffeine is absorbed into the body, 13% is eliminated from the body each hour)
 
-**Learning Objective**
+**Learning Objectives**
 * Learn to code, compile, and run a program containing REPETITION structures
 * Practice input validation
 * Practice how to use loops
@@ -44,7 +44,7 @@ These are assignments and practice labs for my Introduction to Programming in C+
 ## Forth Lab
 [The Forth Lab](https://github.com/Patrick2544/Intro-programming-cpp-/tree/main/InputOutput%20Files) is a program to read from input file and output to another output file. The input data file can be found [here](https://github.com/Patrick2544/Intro-programming-cpp-/blob/main/InputOutput%20Files/DataFile.txt)
 
-**Learning Objective**
+**Learning Objectives**
 * Learn to code, compile, and run a program using file input and an output file
 * Practice how to use .eof() function
 * Practice prime reading method
@@ -53,7 +53,7 @@ These are assignments and practice labs for my Introduction to Programming in C+
 [The Fifth Lab](https://github.com/Patrick2544/Intro-programming-cpp-/tree/main/Advanced%20InOutout%20Files) is a program to calculate the charges for parties the company are going to work on.
 This program required to read from a file and output to multiple files. The input data file can be found [here](https://github.com/Patrick2544/Intro-programming-cpp-/blob/main/Advanced%20InOutout%20Files/DataFile.txt)
 
-**Learning Objective**
+**Learning Objectives**
 * Learn to code, compile, and run a program containing functions for a catering company
 * Practice how to output in multiple files
 * Practice input validation
@@ -63,7 +63,7 @@ This program required to read from a file and output to multiple files. The inpu
 [The Sizth Lab](https://github.com/Patrick2544/Intro-programming-cpp-/tree/main/Array%20practice%20lab) is a program to utilize arrays
 The input data file can be found [here](https://github.com/Patrick2544/Intro-programming-cpp-/blob/main/Array%20practice%20lab/DataFile.txt)
 
-**Learning Objective**
+**Learning Objectives**
 * learn to code, compile, and run a program containing ARRAYS
 * Practice how to use arrays
 * Practice loops and conditional statements
@@ -73,7 +73,7 @@ The input data file can be found [here](https://github.com/Patrick2544/Intro-pro
 [The Seventh Lab](https://github.com/Patrick2544/Intro-programming-cpp-/tree/main/Struct%20Practice%20Lab) is an application simulation of a survey of the households in Woodland Hills.
 The input data file can be found [here](https://github.com/Patrick2544/Intro-programming-cpp-/blob/main/Struct%20Practice%20Lab/DataFile.txt)
 
-**Learning Objective**
+**Learning Objectives**
 * Learn to code, compile, and run a program containing an array of structures
 * Practice input validation
 * Practice how to use functions
