@@ -63,6 +63,12 @@ This program required to read from a file and output to multiple files. The inpu
 [The Sizth Lab](https://github.com/Patrick2544/Intro-programming-cpp-/tree/main/Array%20practice%20lab) is a program to utilize arrays
 The input data file can be found [here](https://github.com/Patrick2544/Intro-programming-cpp-/blob/main/Array%20practice%20lab/DataFile.txt)
 
+**Learning Objective**
+* learn to code, compile, and run a program containing ARRAYS
+* Practice how to use arrays
+* Practice loops and conditional statements
+* Practice how to use functions
+
 ## Seventh Lab
 [The Seventh Lab](https://github.com/Patrick2544/Intro-programming-cpp-/tree/main/Struct%20Practice%20Lab) is an application simulation of a survey of the households in Woodland Hills.
 The input data file can be found [here](https://github.com/Patrick2544/Intro-programming-cpp-/blob/main/Struct%20Practice%20Lab/DataFile.txt)
